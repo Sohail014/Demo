@@ -1,4 +1,4 @@
-public class Sohail {
+public class Sohailgit {
     public static void main(String[] args) {
         int n;
 
@@ -12,7 +12,7 @@ public class Sohail {
 
         System.out.println("Enter the elements of the array: ");
 
-        for(int i=0; i<n; i++)
+        for(int i=0; i
         {
             array[i]=sc.nextInt();                                //reading array elements from the user
         }
